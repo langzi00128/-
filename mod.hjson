@@ -1,23 +1,23 @@
-#the mod name as displayed in-game
-displayName: "Java Mod Template"
+#the mod name as displayed in-game# 该模组在游戏中的显示名称 显示名称： "Java 模组模板"
+displayName: "希望工程"
 
-#the internal name of your mod
-name: "example-java-mod"
+#the internal name of your mod# 您模组的内部名称：“example-java-mod”
+name: "希望工程"
 
-#your name
-author: "You"
+#your name# 你的名字 作者：“你”
+author: "浪子"
 
-#the fully qualified main class of the mod
+#the fully qualified main class of the mod# 该模组主程序的完整限定主类：“example.ExampleJavaMod”
 main: "example.ExampleJavaMod"
 
-#the mod description as seen in the mod dialog
+#the mod description as seen in the mod dialog# 该模组的描述如在模组对话框中所见：“一款《矿工世界》的 Java 模组模板。”
 description: "A Mindustry Java mod template."
 
-#the mod version
-version: 1.0
+#the mod version# 该模组版本：1.0
+version: 0.1
 
-#the minimum game build required to run this mod
-minGameVersion: 150
+#the minimum game build required to run this mod# 运行此模组所需的最低游戏版本：最小游戏版本：150
+minGameVersion: 153
 
-#this is a java mod
+#this is a java mod# 这是一个 Java #模组 Java： 真实存在
 java: true
